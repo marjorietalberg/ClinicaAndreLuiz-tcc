@@ -3,7 +3,7 @@ Plataforma desenvolvida para gerenciamento de pacientes, agendamentos e tratamen
 
 # Sistema Clínico — Clínica André Luiz
 
-![Banner](./imagens/banner.png)
+![Banner](./imagens/logoandreluiz.png)
 
 ## Sumário
 - [Ideia do Projeto](#ideia-do-projeto)
